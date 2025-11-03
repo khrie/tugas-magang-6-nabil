@@ -1,2 +1,0 @@
-task_manager
--DCATKIN_DEVEL_PREFIX=/home/khrie/modul3/devel -DCMAKE_INSTALL_PREFIX=/home/khrie/modul3/install -G Unix Makefiles

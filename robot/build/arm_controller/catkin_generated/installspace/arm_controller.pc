@@ -1,0 +1,8 @@
+prefix=/home/khrie/robot/install
+
+Name: arm_controller
+Description: Description of arm_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime sensor_msgs

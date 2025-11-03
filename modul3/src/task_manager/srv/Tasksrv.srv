@@ -1,6 +1,0 @@
-int32 action
-int32 taskId
-string description
-bool completed
----
-string message
