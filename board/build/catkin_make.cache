@@ -1,0 +1,2 @@
+tugas
+-DCATKIN_DEVEL_PREFIX=/home/khrie/board/devel -DCMAKE_INSTALL_PREFIX=/home/khrie/board/install -G Unix Makefiles

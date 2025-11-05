@@ -1,0 +1,8 @@
+prefix=/home/khrie/board/install
+
+Name: tugas
+Description: Description of tugas
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
