@@ -1,2 +1,0 @@
-arm_controller:robot_description
--DCATKIN_DEVEL_PREFIX=/home/khrie/robot/devel -DCMAKE_INSTALL_PREFIX=/home/khrie/robot/install -G Unix Makefiles
